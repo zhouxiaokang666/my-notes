@@ -1,5 +1,5 @@
 # Git工作流规范
-统一团队Git commit日志标准，便于后续代码review，版本发布以及日志自动化生成等等。
+统一团队Git commit日志标准，便于后续代码review，版本发布以及日志自动化生成等等。  
 统一团队的Git工作流，包括分支使用、tag规范等
 
 ![flow-chart](https://github.com/zhouxiaokang666/my-notes/blob/master/img/git-specifications/flow-chart.png)
