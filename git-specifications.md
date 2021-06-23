@@ -17,8 +17,6 @@
 
 * 每次有代码合并到<kbd>master</kbd>后，均需要将<kbd>master</kbd>推送到<kbd>develop</kbd>，保证<kbd>develop</kbd>分支的代码是最新的。两个主线分支形成一个闭环。
 
-若有并行版本开发的情况，请基于以上规范讨论约定具体实施方案。
-
 ## 分支命名规范
 * __分支版本命名规则__：分支类型 分支创建时间 分支功能。比如：feature_20170401_fairy_flower
 * __分支类型包括__：feature、 bugfix、refactor三种类型，即新功能开发、bug修复和代码重构
