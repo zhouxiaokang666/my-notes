@@ -1,8 +1,8 @@
 # Git工作流规范
 统一团队Git commit日志标准，便于后续代码review，版本发布以及日志自动化生成等等。
-统一团队的Git工作流，包括分支使用、tag规范、issue等
+统一团队的Git工作流，包括分支使用、tag规范等
 
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+![flow-chart](https://github.com/zhouxiaokang666/my-notes/blob/master/img/git-specifications/flow-chart.png)
 
 ## 版本发布规范
 * __基本原则__：<kbd>master</kbd>、<kbd>develop</kbd>作为长期分支存在(暂时不设置保护分支)，不直接在<kbd>master</kbd>上进行代码修改和提交，开发人员尽在<kbd>develop</kbd>和对应的功能分支上操作。<kbd>master</kbd>是生产发版分支，每次发版必须打tag标签（包括紧急版）。
